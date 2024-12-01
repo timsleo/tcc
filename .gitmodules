@@ -1,0 +1,3 @@
+[submodule "projeto_tcc"]
+	path = projeto_tcc
+	url = https://github.com/timsleo/tcc.git
